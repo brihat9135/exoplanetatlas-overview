@@ -1,6 +1,6 @@
 # Exoplanet Atlas
 
-[exoplanetatlas.com](https://exoplanetatlas.com) — full-stack exploration of 6,000+ NASA-confirmed exoplanets.
+[exoplanetatlas.com](https://exoplanetatlas.com) - full-stack exploration of 6,000+ NASA-confirmed exoplanets.
 
 Solo-built. The code is private; this repo is an overview of the technical work.
 
